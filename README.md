@@ -1,6 +1,10 @@
-# rounded_design_demo
+# Flutter Rounded Design
 
-A new Flutter project.
+A Flutter Project to demonstrate rounded design.
+
+<p align="center">
+  <img src="rounded_design.png" width="350" alt="flutter rounded design" title="Screenshot">
+</p>
 
 ## Getting Started
 
